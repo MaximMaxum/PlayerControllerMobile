@@ -6,3 +6,5 @@ You need to download a joystick for the controller.
 https://assetstore.unity.com/packages/tools/input-management/joystick-pack-107631
 
 ![image](https://user-images.githubusercontent.com/114677727/193648028-43aa5d17-d15e-49e0-898a-cb4564c8a1cb.png)
+
+![image](https://user-images.githubusercontent.com/114677727/193649233-873e2f31-fd6c-451a-be6a-a1563a0362f5.png)
